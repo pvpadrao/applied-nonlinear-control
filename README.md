@@ -1,2 +1,3 @@
-# nonlinear-control-systems
- simulation exercices from Slotine
+# Nonlinear Control Systems Example
+ simulation exercises from "Applied Nonlinear Control"
+ Author: J. J. Slotine 
